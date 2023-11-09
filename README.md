@@ -6,7 +6,7 @@ Apenas está funcional a tela de cadastro, logo que você efetuar o cadastro voc
 
 Registration system of register user and password at database.
 The method that used it was the PDO, because it's more safe and structured.
-The password don't is encrypted because this system is simple model
+The password don't is encrypted because this system is a simple model
 
 0 - clone ou baixe este projeto e mova para o htdocs, dentro do Xampp ou Lampp.
 1 - Crie seu banco de dados e coloque o nome na variavel $db no conexao.php.
